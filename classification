@@ -1,0 +1,14 @@
+From the problem statement sources:
+
+Email attachments → PDF, DOCX, XLSX, images
+Maximo exports → CSV, XML
+SharePoint → DOCX, XLSX, PPTX, PDF
+WhatsApp → PDF, JPG, PNG
+Hard copy scans → JPG, PNG, TIFF, PDF
+Ad-hoc cloud links → anything above
+
+So your complete file type list is:
+Documents → PDF, DOCX, PPTX
+Spreadsheets → XLSX, CSV, XML
+Images → JPG, PNG, TIFF
+Text → TXT
